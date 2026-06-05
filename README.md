@@ -8,9 +8,10 @@ The repository focuses on the ARIMA implementation and includes the final group 
 
 ## Project Attribution
 
-This repository is based on a group project completed during my Master's study in Data Science. The project was developed collaboratively by our team.
+This repository is based on a group project completed during my Master's study in Data Science. Although the final presentation was delivered as a team project, I was responsible for most of the core project work, including dataset selection, data understanding, preprocessing pipeline design, ARIMA baseline implementation and revision, model result interpretation, and presentation preparation.
 
-My main contributions included dataset selection, data description, preprocessing pipeline explanation, ARIMA baseline revision, result interpretation, and presentation preparation. This repository is used as a portfolio record to demonstrate my participation in the project and understanding of the end-to-end time series forecasting workflow.
+Other team members contributed to the final presentation, model discussion, and project delivery. This repository is used as a portfolio record to demonstrate my main contributions to the project and my understanding of the end-to-end financial time series forecasting workflow.
+
 
 ## Research Objective
 
