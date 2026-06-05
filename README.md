@@ -88,6 +88,7 @@ The results suggest that a well-designed classical baseline can be highly compet
 │   └── stock_price_prediction_presentation.pdf
 └── results/
 ```
+The docs folder includes the final project report and presentation, covering the dataset, preprocessing pipeline, ARIMA/LSTM/GRU comparison, results, discussion, and future work.
 
 ## How to Run
 
