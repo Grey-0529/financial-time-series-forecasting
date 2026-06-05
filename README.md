@@ -84,7 +84,8 @@ The results suggest that a well-designed classical baseline can be highly compet
 │   ├── arima_baseline_nextday_fixed.py
 │   └── arima_tuning_batch_nextday_fixed.py
 ├── docs/
-│   └── stock_price_prediction_presentation.pdf
+│   ├── stock_price_prediction_report.pdf
+└── stock_price_prediction_presentation.pdf
 └── results/
 ```
 
